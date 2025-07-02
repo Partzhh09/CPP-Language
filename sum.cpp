@@ -1,4 +1,4 @@
-// any two number sum
+// ANY TWO NUMBER SUM
 #include <iostream>
 using namespace std;
 int main()

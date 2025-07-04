@@ -19,5 +19,3 @@ int main(){
 // :: Scope Resolution Operator
 // << Inserting Operators
 // >> Extraction Operators
-
-
